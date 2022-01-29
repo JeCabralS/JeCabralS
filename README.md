@@ -1,18 +1,5 @@
-### Hi there 👋
-
-<!--
-**JeCabralS/JeCabralS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##
+![dormrm](https://user-images.githubusercontent.com/82785756/151638208-5f253540-ba83-43cf-ae94-dde60b643891.gif)
 
 
--
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[dormrm](https://user-images.githubusercontent.com/82785756/151638061-dcaee4ab-376e-4b97-ad00-87f53d859f7e.gif)
--->
