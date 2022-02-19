@@ -2,7 +2,6 @@
 ![gifs](https://user-images.githubusercontent.com/82785756/154810035-054f0135-8ab2-40dc-8e6b-7e6b9d747650.gif)
 
 
-### Olá!✌️
 
 - Desenvolvedor Front-End;
 - 3º Semestre em Análise e Desenvolvimento de Sistemas;
