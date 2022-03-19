@@ -5,15 +5,15 @@
 
 
  Tecnologias:
- Front-End
- - HTML
- - CSS
- - BOOTSTRAP
- - JAVASCRIPT
+ - Html
+ - Css
+ - Bootstrap
+ - Javascript
+ - Ruby / Ruby on Rails
+ - PostgreSQL
  
- Back-End
--RUBY
--RUBY ON RAILS
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersoncabralsilva/)
 
 
