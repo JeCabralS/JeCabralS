@@ -9,8 +9,7 @@
  - Css
  - Bootstrap
  - Javascript
- - Ruby / Ruby on Rails
- - PostgreSQL
+
  
 
 
