@@ -4,12 +4,6 @@
 - São José dos Campos / São Paulo                   
 
 
- Tecnologias:
- - Html
- - Css
- - Bootstrap
- - Javascript
-
  
 
 
