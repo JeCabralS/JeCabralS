@@ -1,6 +1,7 @@
 ##
 - Desenvolvedor Front-End;
 - 4º Semestre em Análise e Desenvolvimento de Sistemas;
+
 -Técnico em Informática para Internet - Instituto Federal
 - São José dos Campos / São Paulo                   
 
